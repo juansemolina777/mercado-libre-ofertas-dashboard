@@ -1,7 +1,5 @@
-# mercado-libre-ofertas-dashboard
-Dashboard de análisis de la sección Ofertas de Mercado Libre con Qlik Sense, modelo estrella y SQL.
-
 # Dashboard de Ofertas de Mercado Libre (Qlik Sense)
+Dashboard de análisis de la sección Ofertas de Mercado Libre con Qlik Sense, modelo estrella y SQL.
 
 Este proyecto es un análisis de la sección **Ofertas** de Mercado Libre, a partir de datos obtenidos por web scraping, con modelado en **esquema estrella** y visualización en **Qlik Sense**.
 
